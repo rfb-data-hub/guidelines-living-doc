@@ -1,30 +1,53 @@
 ---
-title: "Manuscript Title"
+title: "Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries"
 date: null  # Defaults to date generated, but can specify like '2022-10-31'.
 keywords:
-  - markdown
-  - publishing
-  - manubot
+  - flow batteries
+  - electrolytes
+  - research methodology
+  - best practices
 lang: en-US
 authors:
-  - github: johndoe
-    name: John Doe
-    initials: JD
-    orcid: XXXX-XXXX-XXXX-XXXX
-    twitter: johndoe
-    mastodon: johndoe
-    mastodon-server: mastodon.social
-    email: john.doe@something.com
+  - name: Marc-Antoni Goulet
+    initials: MAG
+    email: marc-antoni.goulet@concordia.ca
     affiliations:
-      - Department of Something, University of Whatever
-    funders:
-      - Grant XXXXXXXX
-  - github: janeroe
-    name: Jane Roe
-    initials: JR
-    orcid: XXXX-XXXX-XXXX-XXXX
-    email: jane.roe@whatever.edu
+      - Department of Chemical and Materials Engineering, Concordia University, Montreal, Quebec, Canada
+  - name: Christian Stolze
+    initials: CS
+    orcid: 0000-0002-4620-8945
     affiliations:
-      - Department of Something, University of Whatever
-      - Department of Whatever, University of Something
+      - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
+      - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
+      - Helmholtz-Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstrasse 12–14, 07743 Jena, Germany
+      - Helmholtz-Zentrum Berlin für Materialien und Energie (HZB), Hahn-Meitner-Platz 1, 14109 Berlin, Germany
+  - name: Solène Guihéneuf
+    initials: SG
+    affiliations:
+      - Kemiwatt, Rennes 35708, France
+  - name: Steven Le Vot
+    initials: SLV
+    affiliations:
+      - ICGM, University of Montpellier, CNRS, ENSCM, Montpellier 34095, France
+      - Réseau sur le Stockage Electrochimique de l'Energie (RS2E), CNRS, Amiens 80000, France
+  - name: Edgar Ventosa
+    initials: EV
+    affiliations:
+      - Department of Chemistry, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain
+  - name: Ulrich S. Schubert
+    initials: USS
+    orcid: 0000-0003-2393-7889
+    affiliations:
+      - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
+      - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
+      - Helmholtz-Institute for Polymers in Energy Applications Jena (HIPOLE Jena), Lessingstrasse 12–14, 07743 Jena, Germany
+      - Helmholtz-Zentrum Berlin für Materialien und Energie (HZB), Hahn-Meitner-Platz 1, 14109 Berlin, Germany
+  - name: Fikile Brushett
+    initials: FB
+    affiliations:
+      - Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States of America
+  - name: Michael J. Aziz
+    initials: MJA
     corresponding: true
+    affiliations:
+      - Harvard John A. Paulson School of Engineering and Applied Sciences, Cambridge, Massachusetts 02138, United States of America
