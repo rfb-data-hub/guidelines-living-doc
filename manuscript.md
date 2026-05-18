@@ -34,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2026-05-18" />
   <meta name="citation_publication_date" content="2026-05-18" />
   <meta property="article:published_time" content="2026-05-18" />
-  <meta name="dc.modified" content="2026-05-18T22:07:45+00:00" />
-  <meta property="article:modified_time" content="2026-05-18T22:07:45+00:00" />
+  <meta name="dc.modified" content="2026-05-18T22:17:43+00:00" />
+  <meta property="article:modified_time" content="2026-05-18T22:17:43+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -79,9 +79,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/a101f3c5a9d5585c81592d79a8fe423285210a32/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/a101f3c5a9d5585c81592d79a8fe423285210a32/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/a101f3c5a9d5585c81592d79a8fe423285210a32/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -103,9 +103,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/a101f3c5a9d5585c81592d79a8fe423285210a32/))
+([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/))
 was automatically generated
-from [rfb-data-hub/guidelines-living-doc@a101f3c](https://github.com/rfb-data-hub/guidelines-living-doc/tree/a101f3c5a9d5585c81592d79a8fe423285210a32)
+from [rfb-data-hub/guidelines-living-doc@bdb7627](https://github.com/rfb-data-hub/guidelines-living-doc/tree/bdb762758956887e649580a80a6efbb793a8f11b)
 on May 18, 2026.
 </em></small>
 
