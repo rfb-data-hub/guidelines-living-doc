@@ -10,12 +10,13 @@ lang: en-US
 authors:
   - name: Marc-Antoni Goulet
     initials: MAG
+    orcid: 0000-0002-9146-6759
     email: marc-antoni.goulet@concordia.ca
     affiliations:
       - Department of Chemical and Materials Engineering, Concordia University, Montreal, Quebec, Canada
   - name: Christian Stolze
     initials: CS
-    orcid: 0000-0002-4620-8945
+    orcid: 0000-0001-5358-7181
     affiliations:
       - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
       - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
@@ -23,20 +24,23 @@ authors:
       - Helmholtz-Zentrum Berlin für Materialien und Energie (HZB), Hahn-Meitner-Platz 1, 14109 Berlin, Germany
   - name: Solène Guihéneuf
     initials: SG
+    orcid: 0000-0003-0164-5436
     affiliations:
       - Kemiwatt, Rennes 35708, France
   - name: Steven Le Vot
     initials: SLV
+    orcid: 0000-0001-8752-7590
     affiliations:
       - ICGM, University of Montpellier, CNRS, ENSCM, Montpellier 34095, France
       - Réseau sur le Stockage Electrochimique de l'Energie (RS2E), CNRS, Amiens 80000, France
   - name: Edgar Ventosa
     initials: EV
+    orcid: 0000-0002-8993-4285
     affiliations:
       - Department of Chemistry, University of Burgos, Pza. Misael Bañuelos s/n, E-09001 Burgos, Spain
   - name: Ulrich S. Schubert
     initials: USS
-    orcid: 0000-0003-2393-7889
+    orcid: 0000-0003-4978-4670
     affiliations:
       - Laboratory of Organic and Macromolecular Chemistry (IOMC), Friedrich Schiller University Jena, Humboldtstraße 10, 07743 Jena, Germany
       - Center for Energy and Environmental Chemistry Jena (CEEC Jena), Friedrich Schiller University Jena, Philosophenweg 7a, 07743 Jena, Germany
@@ -44,10 +48,12 @@ authors:
       - Helmholtz-Zentrum Berlin für Materialien und Energie (HZB), Hahn-Meitner-Platz 1, 14109 Berlin, Germany
   - name: Fikile Brushett
     initials: FB
+    orcid: 0000-0002-7361-6637
     affiliations:
       - Department of Chemical Engineering, Massachusetts Institute of Technology, Cambridge, Massachusetts 02139, United States of America
   - name: Michael J. Aziz
     initials: MJA
+    orcid: 0000-0001-9657-9456
     corresponding: true
     affiliations:
       - Harvard John A. Paulson School of Engineering and Applied Sciences, Cambridge, Massachusetts 02138, United States of America
