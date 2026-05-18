@@ -1,10 +1,14 @@
 ---
 title: Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries
 keywords:
-- flow batteries
+- Redox flow batteries
+- redox-active compounds
 - electrolytes
-- research methodology
-- best practices
+- flow cells
+- lifetime testing
+- recommendations
+- experimental protocols
+- practical guidelines
 lang: en-US
 date-meta: '2026-05-18'
 author-meta:
@@ -30,8 +34,8 @@ header-includes: |
   <meta name="dc.date" content="2026-05-18" />
   <meta name="citation_publication_date" content="2026-05-18" />
   <meta property="article:published_time" content="2026-05-18" />
-  <meta name="dc.modified" content="2026-05-18T21:13:45+00:00" />
-  <meta property="article:modified_time" content="2026-05-18T21:13:45+00:00" />
+  <meta name="dc.modified" content="2026-05-18T21:19:36+00:00" />
+  <meta property="article:modified_time" content="2026-05-18T21:19:36+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -75,9 +79,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/a2deeffc9fe821322569bb5c99cd2a849e205ce5/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/a2deeffc9fe821322569bb5c99cd2a849e205ce5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/a2deeffc9fe821322569bb5c99cd2a849e205ce5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/6959b9340b4e2f1f1aeaf62e6e82ad46a024dc21/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/6959b9340b4e2f1f1aeaf62e6e82ad46a024dc21/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/6959b9340b4e2f1f1aeaf62e6e82ad46a024dc21/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -99,9 +103,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/a2deeffc9fe821322569bb5c99cd2a849e205ce5/))
+([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/6959b9340b4e2f1f1aeaf62e6e82ad46a024dc21/))
 was automatically generated
-from [rfb-data-hub/guidelines-living-doc@a2deeff](https://github.com/rfb-data-hub/guidelines-living-doc/tree/a2deeffc9fe821322569bb5c99cd2a849e205ce5)
+from [rfb-data-hub/guidelines-living-doc@6959b93](https://github.com/rfb-data-hub/guidelines-living-doc/tree/6959b9340b4e2f1f1aeaf62e6e82ad46a024dc21)
 on May 18, 2026.
 </em></small>
 
@@ -121,7 +125,7 @@ on May 18, 2026.
   </small>
 
 + **Christian Stolze**
-  <br>
+  ^[✉](#correspondence)^<br>
     ![ORCID icon](images/orcid.svg){.inline_icon width=16 height=16}
     [0000-0001-5358-7181](https://orcid.org/0000-0001-5358-7181)
     <br>
@@ -187,7 +191,8 @@ on May 18, 2026.
 ::: {#correspondence}
 ✉ — Correspondence possible via [GitHub Issues](https://github.com/rfb-data-hub/guidelines-living-doc/issues)
 or email to
-Michael J. Aziz \<\>.
+Christian Stolze \<christian.stolze@uni-jena.de\>, 
+Michael J. Aziz \<maziz@harvard.edu\>.
 
 
 :::
