@@ -2,6 +2,7 @@
 
 <!-- usage note: edit the H1 title above to personalize the manuscript -->
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20277368.svg)](https://doi.org/10.5281/zenodo.20277368)
 [![HTML Manuscript](https://img.shields.io/badge/manuscript-HTML-blue.svg)](https://rfb-data-hub.github.io/guidelines-living-doc/)
 [![PDF Manuscript](https://img.shields.io/badge/manuscript-PDF-blue.svg)](https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf)
 [![GitHub Actions Status](https://github.com/rfb-data-hub/guidelines-living-doc/workflows/Manubot/badge.svg)](https://github.com/rfb-data-hub/guidelines-living-doc/actions)
