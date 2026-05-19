@@ -10,7 +10,7 @@ keywords:
 - experimental protocols
 - practical guidelines
 lang: en-US
-date-meta: '2026-05-18'
+date-meta: '2026-05-19'
 author-meta:
 - Marc-Antoni Goulet
 - Christian Stolze
@@ -31,11 +31,11 @@ header-includes: |
   <meta name="citation_title" content="Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries" />
   <meta property="og:title" content="Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries" />
   <meta property="twitter:title" content="Good Practices and Common Pitfalls in the Research and Development of New Electrolytes for Flow Batteries" />
-  <meta name="dc.date" content="2026-05-18" />
-  <meta name="citation_publication_date" content="2026-05-18" />
-  <meta property="article:published_time" content="2026-05-18" />
-  <meta name="dc.modified" content="2026-05-18T22:17:43+00:00" />
-  <meta property="article:modified_time" content="2026-05-18T22:17:43+00:00" />
+  <meta name="dc.date" content="2026-05-19" />
+  <meta name="citation_publication_date" content="2026-05-19" />
+  <meta property="article:published_time" content="2026-05-19" />
+  <meta name="dc.modified" content="2026-05-19T07:04:44+00:00" />
+  <meta property="article:modified_time" content="2026-05-19T07:04:44+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -79,9 +79,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/" />
   <meta name="citation_pdf_url" content="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://rfb-data-hub.github.io/guidelines-living-doc/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/" />
-  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://rfb-data-hub.github.io/guidelines-living-doc/v/82f290e434cb4e799da9f817612297db4d74bd11/" />
+  <meta name="manubot_html_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/82f290e434cb4e799da9f817612297db4d74bd11/" />
+  <meta name="manubot_pdf_url_versioned" content="https://rfb-data-hub.github.io/guidelines-living-doc/v/82f290e434cb4e799da9f817612297db4d74bd11/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -103,10 +103,10 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/bdb762758956887e649580a80a6efbb793a8f11b/))
+([permalink](https://rfb-data-hub.github.io/guidelines-living-doc/v/82f290e434cb4e799da9f817612297db4d74bd11/))
 was automatically generated
-from [rfb-data-hub/guidelines-living-doc@bdb7627](https://github.com/rfb-data-hub/guidelines-living-doc/tree/bdb762758956887e649580a80a6efbb793a8f11b)
-on May 18, 2026.
+from [rfb-data-hub/guidelines-living-doc@82f290e](https://github.com/rfb-data-hub/guidelines-living-doc/tree/82f290e434cb4e799da9f817612297db4d74bd11)
+on May 19, 2026.
 </em></small>
 
 
