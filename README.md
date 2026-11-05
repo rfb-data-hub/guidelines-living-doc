@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/rfb-data-hub/guidelines-living-doc/tree/gh-pages) branch hosts the contents of this directory at <https://rfb-data-hub.github.io/guidelines-living-doc/>.
-The permalink for this webpage version is <https://rfb-data-hub.github.io/guidelines-living-doc/v/82f290e434cb4e799da9f817612297db4d74bd11/>.
+The permalink for this webpage version is <https://rfb-data-hub.github.io/guidelines-living-doc/v/cbe5fe5d949449b01f4899ab76184c3fbd65f76a/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://rfb-data-hub.github.io/guidelines-living-doc/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`82f290e434cb4e799da9f817612297db4d74bd11`](https://github.com/rfb-data-hub/guidelines-living-doc/commit/82f290e434cb4e799da9f817612297db4d74bd11).
+[`cbe5fe5d949449b01f4899ab76184c3fbd65f76a`](https://github.com/rfb-data-hub/guidelines-living-doc/commit/cbe5fe5d949449b01f4899ab76184c3fbd65f76a).
